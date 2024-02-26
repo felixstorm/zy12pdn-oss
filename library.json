@@ -1,0 +1,8 @@
+{
+    "name": "zy12pdn-oss",
+    "version": "1.0.0",
+    "platforms": "ststm32",
+    "frameworks": "libopencm3",
+    "license": "MIT",
+    "homepage": "https://github.com/manuelbl/zy12pdn-oss"
+}
